@@ -2,7 +2,7 @@ import "./FooterStyles.css"
 
 import React from 'react'
 
-import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaLinkedin, FaGithub } from "react-icons/fa"
+import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaLinkedin, FaGithub, FaFile } from "react-icons/fa"
 
 const Footer = () => {
   return (
@@ -24,6 +24,12 @@ const Footer = () => {
                     <h4><FaMailBulk size={20} style={{color: "white", marginRight: "2rem"}}/>
                     zack.hanni@gmail.com</h4>
                 </div>
+
+                <div className="resume">
+                    <h4><FaFile size={20} style={{color: "white", marginRight: "2rem"}}/>
+                    Zack's resume</h4>
+                </div>
+
             </div>
             <div className="right">
                 <h4>About Me</h4>
