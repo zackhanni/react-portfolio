@@ -1,13 +1,10 @@
 ## notes for website improvements
--   remove project and about pages
 -   add resume download
--   make contact page actually send a message/email
--   put my actual email and contact info on contact page
 -   host this page online
 - change 'portfolio' to something else like zack's portfolio
-- change project links to actual completed projects
 - make foorter socal links actually link to socials
-- make footer contact links make a call, send an email, open maps, etc
+- change color to not yellow
+- make project links open a new page
 
 
 # Getting Started with Create React App
