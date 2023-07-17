@@ -1,6 +1,7 @@
 import "./FooterStyles.css"
 
 import React from 'react'
+import { Link } from "react-router-dom";
 
 import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaLinkedin, FaGithub, FaFile } from "react-icons/fa"
 
@@ -16,18 +17,18 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="phone">
-                    <h4><FaPhone size={20} style={{color: "white", marginRight: "2rem"}}/>
-                    856-298-3095</h4>
+                    <Link to="tel:8562983095"><h4><FaPhone size={20} style={{color: "white", marginRight: "2rem"}}/>
+                    856-298-3095</h4></Link>
                     
                 </div>
                 <div className="email">
-                    <h4><FaMailBulk size={20} style={{color: "white", marginRight: "2rem"}}/>
-                    zack.hanni@gmail.com</h4>
+                    <Link to="mailto:zack.hanni@gmail.com"><h4><FaMailBulk size={20} style={{color: "white", marginRight: "2rem"}}/>
+                    zack.hanni@gmail.com</h4></Link>
                 </div>
 
                 <div className="resume">
-                    <h4><FaFile size={20} style={{color: "white", marginRight: "2rem"}}/>
-                    Zack's resume</h4>
+                    <Link to="../assets/zack-hanni-resume.pdf" target="_blank"><h4><FaFile size={20} style={{color: "white", marginRight: "2rem"}}/>
+                    Zack's resume</h4></Link>
                 </div>
 
             </div>
