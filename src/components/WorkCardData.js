@@ -1,6 +1,7 @@
 import pro1 from "../assets/soma-website.png"
 import pro2 from "../assets/fitness-gym.png"
 import pro3 from "../assets/project1.png"
+import pro4 from "../assets/UX-design-demo.png"
 
 const ProjectCardData = [
     {
@@ -23,6 +24,20 @@ const ProjectCardData = [
         text: "A product website for a clothing company selling a variety of clothing. Complete with item descriptions, size and color options, and a checkout page.",
         view: "https://github.com/zackhanni/ecommerce-website-demo",
         source: "https://github.com/zackhanni/ecommerce-website-demo"
+    },
+    {
+        imgsrc: pro4,
+        title: "UX and UI Design",
+        text: "I have experience designing products and apps with Figma. I have a seperate portfolio of designs and case studies featured on Dribble.com",
+        view: "https://dribbble.com/zackhanni",
+        source: "https://dribbble.com/zackhanni"
+    },
+    {
+        imgsrc: pro3,
+        title: "Calculator",
+        text: "Are you one of the few who think using a built in capculator app is inconvenient? Look no further than my even more inconveniencing JS, HTML, and CSS based calculator app!",
+        view: "https://github.com/zackhanni/js-calculator-app",
+        source: "https://github.com/zackhanni/js-calculator-app"
     },
     
 ];
