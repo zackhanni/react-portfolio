@@ -3,7 +3,7 @@ import "./FooterStyles.css"
 import React from 'react'
 import { Link } from "react-router-dom";
 
-import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaLinkedin, FaGithub, FaFile } from "react-icons/fa"
+import { FaHome, FaPhone, FaMailBulk, FaLinkedin, FaGithub, FaFile, FaDribbble } from "react-icons/fa"
 
 const Footer = () => {
   return (
@@ -36,15 +36,15 @@ const Footer = () => {
                 <h4>About Me</h4>
                 <p>I enjoy coding, learning, and audio engineering. I am open to discussing new projects and design challenges.</p>
                 <div className="social">
-                    <FaFacebook
+                    <Link to="https://www.linkedin.com/in/zackhanni/" target="_blank"><FaLinkedin
                         size={30} 
-                        style={{color: "white", marginRight: "1rem"}}/>
-                    <FaLinkedin
+                        style={{color: "white", marginRight: "1rem"}}/></Link>
+                    <Link to="https://github.com/zackhanni" target="_blank"><FaGithub
                         size={30} 
-                        style={{color: "white", marginRight: "1rem"}}/>
-                    <FaGithub
+                        style={{color: "white", marginRight: "1rem"}}/></Link>
+                    <Link to="https://dribbble.com/zackhanni" target="_blank"><FaDribbble
                         size={30} 
-                        style={{color: "white", marginRight: "1rem"}}/>
+                        style={{color: "white", marginRight: "1rem"}}/></Link>
                 </div>
             </div>
         </div>
