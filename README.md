@@ -1,7 +1,8 @@
 ## notes for website improvements
--   add resume download
 -   change website theme color, change button color
--   change fitness gym name to something more catchy
+-   make contact page have form to fill out that works
+-   update aditional projects
+-   check website speed test optimization
 
 
 # Getting Started with Create React App

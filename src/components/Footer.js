@@ -27,7 +27,7 @@ const Footer = () => {
                 </div>
 
                 <div className="resume">
-                    <Link to="../assets/zack-hanni-resume.pdf" target="_blank"><h4><FaFile size={20} style={{color: "white", marginRight: "2rem"}}/>
+                    <Link to="https://drive.google.com/file/d/1XJAk8fHctsLu_8d6r15THYBmJV-uro1E/view?usp=sharing" target="_blank"><h4><FaFile size={20} style={{color: "white", marginRight: "2rem"}}/>
                     Zack's resume</h4></Link>
                 </div>
 
