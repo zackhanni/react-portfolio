@@ -22,7 +22,7 @@ const ProjectCardData = [
         imgsrc: pro3,
         title: "Ecommerce Website Design",
         text: "A product website for a clothing company selling a variety of clothing. Complete with item descriptions, size and color options, and a checkout page.",
-        view: "https://github.com/zackhanni/ecommerce-website-demo",
+        view: "https://zack-ecommerce.netlify.app/",
         source: "https://github.com/zackhanni/ecommerce-website-demo"
     },
     {
