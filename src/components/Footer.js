@@ -26,10 +26,10 @@ const Footer = () => {
                     zack.hanni@gmail.com</h4></Link>
                 </div>
 
-                <div className="resume">
+                {/* <div className="resume">
                     <Link to="../assets/zack-hanni-resume.pdf" target="_blank"><h4><FaFile size={20} style={{color: "white", marginRight: "2rem"}}/>
                     Zack's resume</h4></Link>
-                </div>
+                </div> */}
 
             </div>
             <div className="right">
