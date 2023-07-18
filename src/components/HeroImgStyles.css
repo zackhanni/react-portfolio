@@ -49,6 +49,7 @@
 
 /* color changing light */
 .hero .content p span {
+    font-weight: 800;
     background-image: 
     linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, red); 
     -webkit-background-clip: text;
