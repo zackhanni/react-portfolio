@@ -1,7 +1,7 @@
-import pro1 from "../assets/soma-website.png"
-import pro2 from "../assets/fitness-gym.png"
-import pro3 from "../assets/project1.png"
-import pro4 from "../assets/UX-design-demo.png"
+import pro1 from "../assets/soma-website.webp"
+import pro2 from "../assets/fitness-gym.webp"
+import pro3 from "../assets/project3.png"
+import pro4 from "../assets/UX-design-demo.webp"
 
 const ProjectCardData = [
     {
@@ -13,7 +13,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro2,
-        title: "Fitness Gym",
+        title: "Fitness Studio",
         text: "I built an example gym website as a way to practice coding with typescript and react. I'm eager to learn more modern and optimised ways to code websites!",
         view: "https://github.com/zackhanni/fitness-gym",
         source: "https://github.com/zackhanni/fitness-gym"
