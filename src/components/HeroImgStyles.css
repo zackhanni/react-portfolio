@@ -47,6 +47,21 @@
     text-transform: uppercase;
 }
 
+/* color changing light */
+.hero .content p span {
+    background-image: 
+    linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, red); 
+  -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+  animation: rainbow-animation 1000s linear infinite;
+}
+
+@keyframes rainbow-animation {
+    to {
+        background-position: 4500vh;
+    }
+}
+
 .content .btn {
     margin: 1rem 0.2rem;
 }
