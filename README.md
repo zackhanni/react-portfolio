@@ -4,7 +4,7 @@
 - change 'portfolio' to something else like zack's portfolio
 - make foorter socal links actually link to socials
 - change color to not yellow
-- make project links open a new page
+- change fitness gym name to something more catchy
 
 
 # Getting Started with Create React App
