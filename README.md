@@ -1,10 +1,7 @@
 ## notes for website improvements
 -   add resume download
--   host this page online
-- change 'portfolio' to something else like zack's portfolio
-- make foorter socal links actually link to socials
-- change color to not yellow
-- change fitness gym name to something more catchy
+-   change website theme color, change button color
+-   change fitness gym name to something more catchy
 
 
 # Getting Started with Create React App
