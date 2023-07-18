@@ -32,13 +32,13 @@ const ProjectCardData = [
         view: "https://dribbble.com/zackhanni",
         source: "https://dribbble.com/zackhanni"
     },
-    {
-        imgsrc: pro3,
-        title: "Calculator",
-        text: "Are you one of the few who think using a built in capculator app is inconvenient? Look no further than my even more inconveniencing JS, HTML, and CSS based calculator app!",
-        view: "https://github.com/zackhanni/js-calculator-app",
-        source: "https://github.com/zackhanni/js-calculator-app"
-    },
+    // {
+    //     imgsrc: pro3,
+    //     title: "Calculator",
+    //     text: "Are you one of the few who think using a built in capculator app is inconvenient? Look no further than my even more inconveniencing JS, HTML, and CSS based calculator app!",
+    //     view: "https://github.com/zackhanni/js-calculator-app",
+    //     source: "https://github.com/zackhanni/js-calculator-app"
+    // },
     
 ];
 
