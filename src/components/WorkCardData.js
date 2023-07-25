@@ -2,6 +2,8 @@ import pro1 from "../assets/soma-website.webp"
 import pro2 from "../assets/fitness-gym.webp"
 import pro3 from "../assets/project3.png"
 import pro4 from "../assets/UX-design-demo.webp"
+import emointel from "../assets/emo-intel.png"
+import calculator from "../assets/calculator.png"
 
 const ProjectCardData = [
     {
@@ -32,13 +34,20 @@ const ProjectCardData = [
         view: "https://dribbble.com/zackhanni",
         source: "https://dribbble.com/zackhanni"
     },
-    // {
-    //     imgsrc: pro3,
-    //     title: "Calculator",
-    //     text: "Are you one of the few who think using a built in capculator app is inconvenient? Look no further than my even more inconveniencing JS, HTML, and CSS based calculator app!",
-    //     view: "https://github.com/zackhanni/js-calculator-app",
-    //     source: "https://github.com/zackhanni/js-calculator-app"
-    // },
+    {
+        imgsrc: emointel,
+        title: "Develop Emotional Intelligence",
+        text: "Empowering people with tools to describe their feelings in more detail",
+        view: "https://emotional-intelligance.netlify.app/",
+        source: "https://github.com/zackhanni/how-are-you-feeling"
+    },
+    {
+        imgsrc: calculator,
+        title: "Zack's Calculator",
+        text: "Are you one of the few who think using a built in capculator app is inconvenient? Look no further than my even more inconveniencing JS, HTML, and CSS based calculator app!",
+        view: "https://zacks-calculator.netlify.app/",
+        source: "https://github.com/zackhanni/js-calculator-app"
+    },
     
 ];
 
