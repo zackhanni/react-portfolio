@@ -1,5 +1,5 @@
 import soma from "../assets/soma-website.webp"
-import fitness from "../assets/fitness-gym.webp"
+// import fitness from "../assets/fitness-gym.webp"
 import ecommerce from "../assets/project3.png"
 import uxdesign from "../assets/UX-design-demo.webp"
 import emointel from "../assets/emo-intel.png"
@@ -20,6 +20,13 @@ const ProjectCardData = [
     //     view: "https://github.com/zackhanni/fitness-gym",
     //     source: "https://github.com/zackhanni/fitness-gym"
     // },
+    {
+        imgsrc: eye,
+        title: "Visual Impairment Simulator",
+        text: "A website designed to simulate various visual disabilities",
+        view: "https://github.com/zackhanni/visual-impairments",
+        source: "https://github.com/zackhanni/visual-impairments"
+    },
     {
         imgsrc: ecommerce,
         title: "Ecommerce Website Design",
