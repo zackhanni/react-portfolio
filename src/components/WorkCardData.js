@@ -4,6 +4,7 @@ import ecommerce from "../assets/project3.png"
 import uxdesign from "../assets/UX-design-demo.webp"
 import emointel from "../assets/emo-intel.png"
 import calculator from "../assets/calculator.png"
+import visual from "../assets/visual-impairment.png"
 
 const ProjectCardData = [
     {
@@ -21,10 +22,10 @@ const ProjectCardData = [
     //     source: "https://github.com/zackhanni/fitness-gym"
     // },
     {
-        imgsrc: eye,
+        imgsrc: visual,
         title: "Visual Impairment Simulator",
         text: "A website designed to simulate various visual disabilities",
-        view: "https://github.com/zackhanni/visual-impairments",
+        view: "https://visual-impairment.netlify.app/",
         source: "https://github.com/zackhanni/visual-impairments"
     },
     {
