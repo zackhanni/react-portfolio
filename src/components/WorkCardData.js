@@ -60,7 +60,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: weather,
-        title: "Zack's Calculator",
+        title: "Weather search app",
         text: "I accessed a weather API to find temperature highs, lows, humidity, etc in any city around the world. This app is deployed through Varcel",
         view: "weather-app-react-xi-liard.vercel.app",
         source: "https://github.com/zackhanni/weather-app-react"
