@@ -48,7 +48,7 @@ const ProjectCardData = [
         imgsrc: emointel,
         title: "Develop Emotional Intelligence",
         text: "Empowering people with tools to describe their feelings in more detail",
-        view: "https://emotional-intelligance.netlify.app/",
+        view: "https://how-are-you-feeling.vercel.app/",
         source: "https://github.com/zackhanni/how-are-you-feeling"
     },
     {
