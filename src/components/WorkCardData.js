@@ -5,6 +5,8 @@ import uxdesign from "../assets/UX-design-demo.webp"
 import emointel from "../assets/emo-intel.png"
 import calculator from "../assets/calculator.png"
 import visual from "../assets/visual-impairment.png"
+import dino from "../assets/dino.jpg"
+import weather from "../assets/weather.jpg"
 
 const ProjectCardData = [
     {
@@ -48,6 +50,20 @@ const ProjectCardData = [
         text: "Empowering people with tools to describe their feelings in more detail",
         view: "https://emotional-intelligance.netlify.app/",
         source: "https://github.com/zackhanni/how-are-you-feeling"
+    },
+    {
+        imgsrc: dino,
+        title: "Dinosaur themed THE-saurus",
+        text: "I worked with Dictionary.com to access their thesaurus API. This app is deployed through Vercel",
+        view: "https://the-saurus.vercel.app/",
+        source: "https://github.com/zackhanni/the-saurus"
+    },
+    {
+        imgsrc: weather,
+        title: "Zack's Calculator",
+        text: "I accessed a weather API to find temperature highs, lows, humidity, etc in any city around the world. This app is deployed through Varcel",
+        view: "weather-app-react-xi-liard.vercel.app",
+        source: "https://github.com/zackhanni/weather-app-react"
     },
     {
         imgsrc: calculator,
